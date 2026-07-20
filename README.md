@@ -56,12 +56,6 @@ src/
 └── App.jsx           # Routes and app layout
 ```
 
-## Roadmap / Ideas
-
-- [ ] "More like this" recommendations on the movie details page
-- [ ] Sort/filter options on the Home page
-- [ ] Pagination for search results
-
 ## License
 
 This project is for personal/educational use. Movie data and images provided by [TMDB](https://www.themoviedb.org/)
